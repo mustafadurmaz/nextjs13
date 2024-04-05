@@ -4,7 +4,7 @@ type Props = {}
 
 function Hakkimizda({}: Props) {
   return (
-    <div>Hakkimizda</div>
+    <div>Hakkimizda Page</div>
   )
 }
 
